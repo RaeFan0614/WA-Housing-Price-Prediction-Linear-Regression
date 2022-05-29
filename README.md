@@ -23,7 +23,6 @@ Converted categorical variables into dummy variables, feature crosses, log trans
 Linear Regression train-test data split
 ## Lost Evaluation
 MSE, R2, Lasso Regularization, Ridge Regularization
-### Hi, I'm Rae! Still learning about data analysis.
 
 
 ## 🛠 Skills
